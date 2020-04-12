@@ -1,0 +1,2 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,Latency,IdleTime,Connect
+1586599166088,168,HTTP请求,200,OK,登录 1-1,text,true,,2017,248,1,1,168,0,89

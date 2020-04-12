@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="4724" it="0" lt="4723" ct="160" ts="1586692461801" s="true" lb="HTTP请求" rc="200" rm="OK" tn="登录 1-1" dt="text" by="2017" sby="248" ng="1" na="1"/>
+
+</testResults>
