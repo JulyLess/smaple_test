@@ -43,7 +43,7 @@
                 <stringProp name="Argument.value">{&#xd;
   &quot;LoginAccount&quot;: &quot;12300000230&quot;,&#xd;
   &quot;Password&quot;: &quot;111111&quot;,&#xd;
-&#xd;
+  &quot;platform&quot;:20&#xd;
 }</stringProp>
                 <stringProp name="Argument.metadata">=</stringProp>
               </elementProp>
